@@ -1,3 +1,6 @@
-# SimpleEngine
-A Simple Engine for rendering simple objects
-vision 0.1
+##Introduction
+This is a simple graphic engine to demonstrate the basic graphic theories. 
+Version 1.0
+
+##Build Environment
+Visual Studio
